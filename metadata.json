@@ -1,0 +1,6 @@
+{
+  "name": "TalentForge Pro",
+  "description": "Premium AI Resume Review, ATS Optimization & Career Intelligence Engine",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

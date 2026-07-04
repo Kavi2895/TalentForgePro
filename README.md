@@ -1,187 +1,21 @@
-# 🚀 TalentForge Pro
+# 🎯 TalentForge Pro
 
-> **AI-Powered Resume Review & ATS Optimization Platform**
+## Premium AI Resume Review, ATS Optimization & Career Intelligence Engine
 
-TalentForge Pro is an AI-powered web application that helps job seekers optimize their resumes for Applicant Tracking Systems (ATS) and recruiter expectations. It analyzes resumes, identifies keyword gaps, provides recruiter-style feedback, rewrites resume content, and generates personalized cover letters using Large Language Models (LLMs).
+TalentForge Pro is an enterprise-grade AI Resume Intelligence platform designed to align and optimize candidate profiles against high-performance roles at top technology targets.
 
----
+### 🛠 Visual Identity & Theme
+- **Theme Palette**: Cosmic Dark Slate (#09090B, #111827)
+- **Primary Color Accent**: Purple/Indigo (#7C3AED)
+- **Secondary Accent**: Violet/Magenta (#A855F7)
+- **Accent Indicator**: Cyan/Aqua (#06B6D4)
+- **Typography Pairing**: Inter for clean legibility; Poppins for elegant display headings
 
-## ✨ Features
-
-- 📄 Upload Resume (PDF, DOCX, TXT)
-- 🤖 AI Resume Parsing
-- 📊 ATS Score Analysis
-- 👨‍💼 Recruiter Review
-- 🔍 Keyword Gap Analysis
-- ✍️ AI Resume Rewriting
-- 📨 AI Cover Letter Generation
-- 📈 Resume Score Dashboard
-- 💾 Analysis History
-- 📥 Export Reports (PDF & DOCX)
-- 🌙 Responsive Dark UI
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
-- Shadcn UI
-- Framer Motion
-
-### Backend
-- Node.js
-- Express
-- TypeScript
-
-### AI
-- Google Gemini API
-- OpenAI *(Optional)*
-- Ollama *(Optional)*
-
-### Database
-- SQLite
-
----
-
-## 📂 Project Structure
-
-```text
-TalentForge-Pro/
-│
-├── frontend/
-├── backend/
-├── components/
-├── services/
-├── prompts/
-├── database/
-├── public/
-├── README.md
-└── package.json
-```
-
----
-
-## ⚙️ Installation
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/TalentForge-Pro.git
-cd TalentForge-Pro
-```
-
-### Install Dependencies
-
-```bash
-npm install
-```
-
-### Configure Environment Variables
-
-Create a `.env` file in the project root.
-
-```env
-GEMINI_API_KEY=YOUR_API_KEY
-```
-
-### Run the Application
-
-```bash
-npm run dev
-```
-
-Open your browser and visit:
-
-```
-http://localhost:3000
-```
-
----
-
-## 📋 Workflow
-
-```text
-Resume Upload
-      │
-      ▼
-Resume Parsing
-      │
-      ▼
-ATS Analysis
-      │
-      ▼
-Recruiter Review
-      │
-      ▼
-Keyword Gap Analysis
-      │
-      ▼
-Resume Rewrite
-      │
-      ▼
-Cover Letter Generation
-      │
-      ▼
-Download Report
-```
-
----
-
-## 🎯 Key Highlights
-
-- ATS-friendly resume evaluation
-- Recruiter-style resume feedback
-- AI-powered resume optimization
-- Keyword matching with job descriptions
-- Personalized cover letter generation
-- Responsive and modern UI
-- Secure API integration
-- Exportable reports
-
----
-
-## 🔮 Future Enhancements
-
-- AI Interview Preparation
-- LinkedIn Profile Review
-- Resume Version Management
-- Job Recommendation Engine
-- Multi-language Resume Support
-- Analytics Dashboard
-- Admin Panel
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push the branch
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 👨‍💻 Developer
-
-**Kavimadhu K**
-
-AI Enthusiast • Full Stack Developer • Software Engineer
-
-💻 GitHub: https://github.com/your-username
-
----
-
-⭐ **If you found this project useful, please consider giving it a Star!**
+### ✨ Key Features
+- **ATS Score Gauge & Radar Map**: Gorgeous real-time SVG progress ring and radial radar mapping analyzing candidate matches.
+- **7-Second Screening Simulation**: Mimics real recruiter Visual Gaze to audit quick screening rejection triggers.
+- **Keyword & JD Gap Alignment**: Analyzes semantic frequency indexes and suggests natural ways to integrate high-priority keywords.
+- **STAR Resume Rewrite**: Fully customized Markdown resume synthesizer optimizing boring bullets into high-relevance business outcomes.
+- **Tailored Interview Prep**: Generates behavioral, technical, and HR interview questions custom-tailored to the matched JD and resume.
+- **Interactive Cover Letter Generator**: Custom draft builder with Standard, Creative, and Bold theme mode outputs.
+- **Saved Resumes & Evaluation History**: Local browser history preservation lets you easily keep track of previous scans.
