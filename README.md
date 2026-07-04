@@ -180,10 +180,6 @@ This project is licensed under the **MIT License**.
 
 AI Enthusiast • Full Stack Developer • Software Engineer
 
-📧 Email: your-email@example.com
-
-🔗 LinkedIn: https://linkedin.com/in/your-profile
-
 💻 GitHub: https://github.com/your-username
 
 ---
